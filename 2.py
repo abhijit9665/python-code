@@ -12,3 +12,4 @@ print(id(list1))
 print(id(list2))
 print(list1 is list2) #difference address..... is operator is address comparision 
 print(list1==list2)
+print(list1)
